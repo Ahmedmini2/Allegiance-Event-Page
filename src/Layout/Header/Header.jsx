@@ -18,7 +18,7 @@ function Header() {
     <header className=" bg-opacity-20 backdrop-blur-sm fixed top-0 left-0 w-full z-50">
       <nav aria-label="Global" className="flex mx-auto lg:mx-40   items-center justify-between p-6 lg:px-4">
         <div className="flex lg:flex-1">
-          <a href="#" className="-m-1.5 p-1.5">
+          <a href="https://aredxb.com" className="-m-1.5 p-1.5">
             <span className="sr-only">Allegiance Real Estate</span>
             <img
               alt="Allegiance Real Estate"
@@ -40,7 +40,7 @@ function Header() {
         <PopoverGroup className="hidden lg:flex lg:gap-x-12">
           
 
-          <a href="#" className="text-lg font-semibold text-white transition ease-in-out duration-500 hover:text-main-gold hover:bg-main-green hover px-4 py-3 pt-2 rounded-md">
+          <a href="https://aredxb.com" className="text-lg font-semibold text-white transition ease-in-out duration-500 hover:text-main-gold hover:bg-main-green hover px-4 py-3 pt-2 rounded-md">
             Home Page
           </a>
           {/* <a href="#" className="text-sm/6 font-semibold text-gray-900">
@@ -57,10 +57,10 @@ function Header() {
         <DialogPanel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
             <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Your Company</span>
+              <span className="sr-only">Allegiance Real Estate</span>
               <img
                 alt=""
-                src=""
+                src="https://aredxb.com"
                 className="h-8 w-auto"
               />
             </a>
@@ -78,7 +78,7 @@ function Header() {
               <div className="space-y-2 py-6">
                 
                 <a
-                  href="#"
+                  href="https://aredxb.com"
                   className="-mx-3 block rounded-lg px-3 py-12 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
                 >
                   Home Page
