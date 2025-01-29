@@ -3,14 +3,14 @@ import './Hero.css'
 function Hero() {
   return (
     <section
-  className="relative bg-[url(/src/assets/images/mainbg.jpg)] bg-cover bg-center bg-no-repeat md:h-full"
+  className="relative bg-[url(/src/assets/images/bg2.jpg)] bg-cover bg-center bg-no-repeat md:h-full"
 >
   <div
     className="absolute inset-0 bg-gray-900/15 sm:bg-transparent from-main-green-500 to-gray-900/15 bg-gradient-to-r rtl:sm:bg-gradient-to-l"
   ></div>
 
   <div
-    className="relative mx-2 lg:mx-20 xl:mx-12 px-4 py-40 md:py-40 sm:px-6 lg:flex   lg:px-8 justify-center"
+    className="relative mx-2 lg:mx-20 xl:mx-40 px-4 py-44 md:py-40 sm:px-6 lg:flex   lg:px-8 justify-center"
   >
     
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 text-left ltr:sm:text-left rtl:sm:text-right ">
@@ -70,7 +70,7 @@ function Hero() {
           <div className="mx-auto ">
             
 
-            <form action="#" className="bg-white bg-opacity-90 mb-0 mt-6 space-y-4 rounded-lg p-4 shadow-lg sm:p-6 lg:p-8">
+            <form action="#" className="bg-white bg-opacity-90 mb-0  space-y-4 rounded-lg p-4 shadow-lg sm:p-6 lg:p-8">
               <p className="text-3xl md:text-4xl lg:text-5xl text-left xl:text-7xl font-medium text-black">Grab your free ticket while stock lasts</p>
               <p className='text-left text-xl md:text-xl xl:text-2xl font-thin text-black' >Last year we ran out of tickets in 3 days with over 600 visitors attending</p>
 
@@ -145,7 +145,7 @@ function Hero() {
                     
 
                     <p className=" text-pretty text-sm text-gray-700">
-                    By accepting and providing my personal information I am consenting to Metropolitan Group Privacy Policy, the applicable data protection laws and Terms of Use.
+                    By accepting and providing my personal information I am consenting to Allegiance Real Estate Privacy Policy, the applicable data protection laws and Terms of Use.
                     </p>
                   </div>
                 </label>

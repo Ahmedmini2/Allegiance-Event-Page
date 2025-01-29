@@ -37,7 +37,7 @@ function Companies() {
           </div>
           <div className="flex justify-center">
             <img
-              src="/src/assets/images/ceo.webp"
+              src="/src/assets/images/ceo copy.webp"
               alt=""
               className="inline-block"
             />

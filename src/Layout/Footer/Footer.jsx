@@ -11,7 +11,7 @@ function Footer() {
             <div className="xl:grid xl:grid-cols-3 xl:gap-8">
             <div className="space-y-4">
                 <img className="h-16" src="/src/assets/images/logo.png" alt="Allegiance Real Estate"/>
-                <p className="text-sm leading-6 text-gray-600">Allegiance Real Estate is an integrated real estate service provider offering a world-class real estate service to individuals and institutional clients.
+                <p className="text-sm leading-6 text-gray-600">Allegiance Real Estate is a leading integrated realestate service provider headquartered in the United Arab Emirates, consistently ranked as the UAE's Number 1 Real Estate Agency. Serving a diverse clientele from local and international backgrounds, Allegiance offers a comprehensive suite of services that sets it apart from conventional real estate firms.
                 </p>
 
                 {/* Social Media Icons */}
